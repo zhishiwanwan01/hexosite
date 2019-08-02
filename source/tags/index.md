@@ -1,5 +1,5 @@
 ---
-title: tags
+title: Tags
 date: 
 type: "tags"
 comments: false
