@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: Leo Zhu
-language: zh-CN
+language: en
 timezone: Australia/Sydney
 
 # URL
@@ -177,7 +177,7 @@ creative_commons:
   license: by-nc-sa
   sidebar: false
   post: false
-  language: zh-CN
+  language: en
 
 
 # ---------------------------------------------------------------
